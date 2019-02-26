@@ -15,11 +15,6 @@ state
 img_name
 
 
-STATIUM
-id
-name
-state
-
 RESULTADOS
 id
 name (vitoria casa, vitoria fora, empate)
