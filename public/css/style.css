@@ -3,3 +3,32 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
+
+.bt-bet{
+    margin: 5px;
+    font-weight: bolder;
+}
+
+.container-game{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: 1;  
+}
+
+.box-game{
+    margin-bottom: 10px;
+}
+
+.box-teams{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    flex: 1;
+}
+
+
+.box-teams img{
+    height: 40px;
+    margin: 2px;
+}
